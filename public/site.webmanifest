@@ -1,0 +1,29 @@
+{
+  "name": "Florida Grande Motor Coach Resort",
+  "short_name": "Florida Grande",
+  "description": "Luxury Motor Coach Resort in Webster, Florida",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFF0",
+  "theme_color": "#EFC25D",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/logos/logo-round.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ]
+}
